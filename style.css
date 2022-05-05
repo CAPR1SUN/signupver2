@@ -146,6 +146,7 @@ button {
     font-size: 1rem;
     font-weight: 900;
 }
+
 button:hover {
     border-color: #c53ec1;
     color: #c53ec1;
